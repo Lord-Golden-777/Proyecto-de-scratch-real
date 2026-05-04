@@ -23,3 +23,7 @@ Sobre mí
 
 Soy Lucca. Comencé a programar desde los 10 años y 
 estoy construyendo mi camino como desarrollador.
+
+Te invito a que explores mi primer juego:
+
+https://scratch.mit.edu/projects/928196654/
